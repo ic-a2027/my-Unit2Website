@@ -1,0 +1,45 @@
+body {
+  background: #d1e4d0;
+}
+
+p {
+  color: black;
+  font-size: 20px;
+  
+}
+
+h6{
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  color: darkgreen;
+  text-align: center;
+  font-size: 50px;
+  font-family: fantasy
+}
+
+a{
+  color: #006900;
+}
+
+img{
+  width: 500px;
+  height: 360px;
+  border-color: darkolivegreen;
+  border-radius: 30px;
+  border-style: solid;
+  border-width: 10px;
+  display: block;
+  margin: auto;
+}
+
+.pictures{
+  width: 500px;
+  height: 600px;
+  border-color: darkolivegreen;
+  border-style: solid;
+  border-width: 10px;
+}
+
